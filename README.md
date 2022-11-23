@@ -1,10 +1,12 @@
-# MW-USB2CAN-FIFO-v2_LinuxCAN [업로드 파일 : test.c, USB2CAN_lib.a, CAN_Access.h, libftd2xx.a]
+# MW-USB2CAN-FIFO-v2_LinuxCAN 
 ***
 ## **Manual**
 ***
 
- ### USB2CAN 리눅스 드라이버 사용과정(FIFO호환)
+### USB2CAN 리눅스 드라이버 사용과정(FIFO호환)
 ####
+####
+#### [업로드 파일 : test.c, USB2CAN_lib.a, CAN_Access.h, libftd2xx.a]
 ####
 #### 1. USB2CAN FIFO를 PC에 연결하고 CAN 통신망을 구성한다.
 #### 2. 터미널 창에 다음을 입력한다 (FIFO 메뉴얼 권고사항)
