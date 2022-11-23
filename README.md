@@ -12,7 +12,7 @@
 #### 2. 터미널 창에 다음을 입력한다 (FIFO 메뉴얼 권고사항)
 #### - sudo rmmod ftdi_sio
 #### - sudo rmmod usbserial
-#### 3. 아래에 있는 소스를 복사하여 다운로드 받은 라이브러리 파일 같은 경로에 test.c 파일을 만든다
+#### 3. 아래에 있는 소스를 복사하여 다운로드 받은 라이브러리 파일을 같은 경로에 test.c 파일을 만든다
     
 ```c
 #include <iostream>
