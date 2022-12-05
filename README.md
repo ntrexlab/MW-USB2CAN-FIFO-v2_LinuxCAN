@@ -158,8 +158,9 @@ int main(int, char**)
 ```
 
 #### 4. 다음 명령어를 이용해 빌드한다.
-####    g++ -o test test.c libftd2xx.a USB2CAN_lib.a -ldl -lpthread 
-####
+####    g++ -v -o main test.c USB2CAN_lib.a libftd2xx.a -ldl -lpthread
+#### 5. 다음 명령어를 입력하여 실행한다.
+####	sudo ./main
 ####
 #### 참고사항
 ####    윈도우 환경에서 USB2CAN(FIFO)를 사용하여 AHRS 통신방법  https://github.com/ntrexlab/AHRS_Can
